@@ -8,13 +8,13 @@ This project contains a collection of JavaScript exercises organized into 7 them
 📁 Structure
 The HTML file loads the following JavaScript files:
 html
-<script src="./exercici11.js"></script> <!-- Arrow Functions -->
-<script src="./exercici12.js"></script> <!-- Ternary Operator -->
-<script src="./exercici13.js"></script> <!-- Callbacks -->
-<script src="./exercici14.js"></script> <!-- Rest & Spread -->
-<script src="./exercici15.js"></script> <!-- Array Transformations -->
-<script src="./exercici16.js"></script> <!-- Array Loops -->
-<script src="./exercici17.js"></script> <!-- Promises & Async/Await -->
+<script src="./src/exercici11.js"></script> <!-- Arrow Functions -->
+<script src="./src/exercici12.js"></script> <!-- Ternary Operator -->
+<script src="./src/exercici13.js"></script> <!-- Callbacks -->
+<script src="./src/exercici14.js"></script> <!-- Rest & Spread -->
+<script src="./src/exercici15.js"></script> <!-- Array Transformations -->
+<script src="./src/exercici16.js"></script> <!-- Array Loops -->
+<script src="./src/exercici17.js"></script> <!-- Promises & Async/Await -->
 
 
 🧠 Topics Covered
@@ -48,10 +48,15 @@ Using Promise.all and async/await
 
 
 🖥️ How to Run
+Clone the repository:
+    git clone https://github.com/Carlos-Martorell/sprint2.1
 Open index.html in your browser.
 Open the developer console (F12 or right-click → Inspect → Console).
 View the output of each exercise as the scripts execute.
 
+🚀 Live Version
+You can view the live version deployed on Vercel here:
+👉 https://sprint2-1.vercel.app
 
 👨‍💻 Author
 Carlos Martorell Sprint 2.1 – JavaScript Exercises © 2025
